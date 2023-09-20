@@ -7,6 +7,7 @@ this picture resume the project Architecture:
                <img width="551" alt="ProjectArchitecture" src="https://github.com/oussabi-tarek/microservices-springboot/assets/104314459/d30d24b0-1e42-46b7-a783-ba07282030cf">
 
 Getting Started
+
 To get started with this project, follow these steps:
 
 Clone the Repository: Use git clone to clone this repository to your local machine.
