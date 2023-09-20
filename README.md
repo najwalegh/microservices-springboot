@@ -1,12 +1,12 @@
-this is a Spring Boot Microservices Project! This project showcases
+This is a **Spring Boot Microservices Project!** This project showcases
 a modular, scalable, and secure architecture for building modern web applications 
 using microservices. Each service is designed to perform a specific set of functionalities,
 and they communicate seamlessly through a well-structured architecture.
 
-this picture resume the project Architecture:
+This picture resume the project Architecture:
                <img width="551" alt="ProjectArchitecture" src="https://github.com/oussabi-tarek/microservices-springboot/assets/104314459/d30d24b0-1e42-46b7-a783-ba07282030cf">
 
-Getting Started
+**Getting Started**
 
 To get started with this project, follow these steps:
 
